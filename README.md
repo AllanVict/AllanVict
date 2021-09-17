@@ -1,6 +1,6 @@
 - 👋 Olá, eu sou @AllanVict
 - Nome completo: Allan Victor Soares De Aguiar
--Contate-me no email: av343877@gmail.com
+- Contate-me no email: av343877@gmail.com
 - 👀 Atualmente estou estudando HTML5, CSS3 e JavaScript
 - 🌱 Busco vaga para front-end júnior 
 - 💞️Desejo me especializar cada vez mais na área de programação web
