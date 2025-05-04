@@ -1,7 +1,7 @@
 - 👋 Olá, eu sou @AllanVict
 - Nome completo: Allan Victor Soares De Aguiar
 - Contate-me no email: av343877@gmail.com
-- 👀 Atualmente focado em desevolver minhas habilidades em React, Node.js e Typescript
+- 👀 Atualmente focado em desevolver minhas habilidades em React.js, Node.js e Typescript
 - 🌱 Busco vaga para front-end e back-end
 - 💞️Desejo me especializar cada vez mais na área de programação web
 
